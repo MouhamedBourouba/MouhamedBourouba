@@ -6,7 +6,7 @@
 my stack:
 <ul>
   <li>for native android apps: kotlin with JetpackCompose</li>
-  <li>for croos-platform apps: QtQuick</li>
+  <li>for croos-platform apps: QtQuick, flutter</li>
   <li>for the backend: Grpc with asp.net core</li>
 </ul>
 
