@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Qt
 - 📫 How to reach me MouhamedMobileDev@gmail.com
 
-my stack:
+what i use:
 <ul>
-  <li>for native android apps: kotlin with JetpackCompose</li>
+  <li>for native android apps: JetpackCompose</li>
   <li>for croos-platform apps: QtQuick, flutter</li>
-  <li>for the backend: Grpc with asp.net core</li>
+  <li>for the backend: Grpc, asp.net core, flask</li>
 </ul>
 
 
