@@ -6,6 +6,7 @@
 what i use:
 <ul>
   <li>for native android apps: JetpackCompose</li>
+  <li>for web apps: svelte</li>
   <li>for croos-platform apps: QtQuick, flutter</li>
   <li>for the backend: Grpc, asp.net core, flask, Actix</li>
   <li>for games: SDL2</li>
