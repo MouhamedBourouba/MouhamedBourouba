@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MouhamedBourouba
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Qt
 - 📫 How to reach me MouhamedMobileDev@gmail.com
-
 what i use:
 <ul>
   <li>for native android apps: JetpackCompose</li>
