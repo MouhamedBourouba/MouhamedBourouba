@@ -2,7 +2,7 @@
 - 📫 How to reach me: mouhamed.softwaresolutions@gmail.com
 
 ## About Me
-I am a passionate software developer with expertise in various technologies. I love exploring new technologies and experimenting with different tools to create robust and scalable solutions. I believe in the power of innovation and enjoy pushing the boundaries of what's possible in software development.
+I am a passionate mobile developer with expertise in various technologies. I love exploring new technologies and experimenting with different tools to create robust and scalable solutions. I believe in the power of innovation and enjoy pushing the boundaries of what's possible in software development.
 
 My goal is to create meaningful and impactful applications that provide value to users. I am constantly seeking opportunities to learn and grow, staying up to date with the latest trends and advancements in the tech industry.
 
