@@ -17,9 +17,6 @@ Here are the technologies I work with across different domains:
 ### Native Android Apps: Jetpack Compose
 Jetpack Compose is a modern UI toolkit for building beautiful Android apps with a declarative approach. It allows me to create interactive and visually appealing user interfaces, making development faster and more efficient.
 
-### Web Apps: Svelte
-Svelte is a lightweight JavaScript framework that enables me to build fast and efficient web applications. With its reactive approach, I can create dynamic user interfaces and deliver optimal performance to users.
-
 ### Cross-Platform Apps: QtQuick, Flutter
 QtQuick is a powerful framework that allows me to build cross-platform apps using C++. It provides a rich set of UI components and supports rapid development, making it a great choice for multi-platform applications.
 
