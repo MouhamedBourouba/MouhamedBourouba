@@ -1,6 +1,3 @@
-# Hi, I'm Mouhamed Bourouba! 👋
-- 📫 How to reach me: mouhamed.softwaresolutions@gmail.com
-<!---
-MouhamedBourouba/MouhamedBourouba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Mouhamed Bourouba!
+
+- 📫 You can reach me at: [mouhamed.softwaresolutions@gmail.com](mailto:mouhamed.softwaresolutions@gmail.com)
